@@ -3,7 +3,7 @@
     {
       "appId": "ch.ubique.nextstep",
       "description": "This is the Next Step App",
-      "backendBaseUrl": "https://covid-dev-ws.ubique.ch/",
+      "backendBaseUrl": "https://ws-sdk-prod.next-step.io/",
       "listBaseUrl": "https://ubiquevscoviddev.blob.core.windows.net/ubiquevscovid/",
       "bleGattGuid": "8c8494e3-bab5-1848-40a0-1b06991c0000",
       "contact": "Ubique Innovation AG Niederdorfstrasse 77 CH-8001 Zürich https://next-step.io"
